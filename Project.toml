@@ -3,6 +3,9 @@ uuid = "6729d840-4725-4c06-943f-d975883f63e4"
 authors = ["Bruno Amorim <amorim.bac@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+
 [compat]
 julia = "1"
 
